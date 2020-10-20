@@ -1,6 +1,12 @@
 import random
+
 from collections import deque
 from functools import partial
+
+
+Created on Tueasday october 20
+@author: burak akbayrak
+
 
 from helpers.linear_algebra import dot, get_row, get_column, shape, make_matrix, magnitude, scalar_multiply, distance
 from network_analysis.data import users, friendships, endorsements

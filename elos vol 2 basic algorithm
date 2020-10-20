@@ -1,6 +1,8 @@
 import math
 import operator
 
+Created on Tueasday october 20
+@author: burak akbayrak
 
 def calcShannonEnt(dataSet):
     numEntries=len(dataSet)
